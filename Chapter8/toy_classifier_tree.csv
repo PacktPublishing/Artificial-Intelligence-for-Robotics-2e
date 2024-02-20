@@ -1,0 +1,19 @@
+Type,Length,Width,Weight,Color,Number of wheels,Noise,Soft,Material,Eyes,Toy Name
+car,3,1,35,red,4,0,hard,metal,0,HotWheels
+car,3,1,35,orange,4,0,hard,metal,0,HotWheels
+car,3,1,35,blue,4,0,hard,metal,0,HotWheels
+car,3,1,35,blue,4,0,hard,metal,0,HotWheels
+car,3,1,35,white,4,0,hard,metal,0,HotWheels
+stuffed,5,5,50,white,0,0,verysoft,fur,2,Plush  
+stuffed,7,5,55,brown,0,0,verysoft,fur,3,Plush  
+action,2,4,80,grey,0,0,hard,metal,0,slinky
+build,2,2,125,wood,0,0,hard,wood,0,wood block 2x2
+build,2,2,75,wood,0,0,hard,wood,0,wood block triangle
+build,4,2,250,wood,0,0,hard,wood,0,wood block  4x2
+dish,3,3,79,blue,0,0,hard,ceramic,0,teapot
+aircraft,7,5,65,white,4,1,hard,plastic,0,space shuttle
+aircraft,13,7,500,green,8,1,hard,plastic,0,Thunderbird 2
+car,5,1,333,yellow,6,1,hard,metal,0,school bus
+music,12,4,130,wood,0,2,hard,wood,0,toy guitar
+music,5,2,100,yellow,0,1,hard,plastic,0,play microphone
+music,4,4,189,white,0,2,hard,wood,0,toy drum
