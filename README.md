@@ -1,6 +1,6 @@
 # Artificial Intelligence for Robotics - Second Edition
 
-<a href="https://www.packtpub.com/product/artificial-intelligence-for-robotics-second-edition/9781805129592"><img src="(https://content.packt.com/B19846/cover_image_small.jpg)" alt="no-image" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/artificial-intelligence-for-robotics-second-edition/9781805129592"><img src="https://content.packt.com/B19846/cover_image_small.jpg" alt="no-image" height="256px" align="right"></a>
 
 This is the code repository for [Artificial Intelligence for Robotics - Second Edition](https://www.packtpub.com/product/artificial-intelligence-for-robotics-second-edition/9781805129592), published by Packt.
 
@@ -17,6 +17,7 @@ This book covers the following exciting features:
 * Teach your robot to listen using Natural Language Processing through an expert system
 * Program your robot in how to avoid obstacles and retrieve objects with machine learning and computer vision
 * Apply simulation techniques to give your robot an artificial personality
+
 If you feel this book is for you, get your [copy](https://www.amazon.com/Artificial-Intelligence-Robotics-intelligent-techniques-ebook/dp/B0CRDWMW5R) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
