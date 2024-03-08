@@ -1,8 +1,8 @@
-# Artificial Intelligence for Robotics- 2nd Edition
+# Artificial Intelligence for Robotics - Second Edition
 
 <a href="https://www.packtpub.com/product/artificial-intelligence-for-robotics-second-edition/9781805129592"><img src="(https://content.packt.com/B19846/cover_image_small.jpg)" alt="no-image" height="256px" align="right"></a>
 
-This is the code repository for [Title_name][(https://www.packtpub.com/product/artificial-intelligence-for-robotics-second-edition/9781805129592)](https://www.packtpub.com/product/artificial-intelligence-for-robotics-second-edition/9781805129592), published by Packt.
+This is the code repository for [Artificial Intelligence for Robotics - Second Edition](https://www.packtpub.com/product/artificial-intelligence-for-robotics-second-edition/9781805129592), published by Packt.
 
 **Build intelligent robots using ROS 2, Python, OpenCV, and AI/ML techniques for real-world tasks**
 
